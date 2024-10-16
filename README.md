@@ -1,0 +1,1 @@
+Este en mi repositorio en el que haré una wiki del Real Madrid, el cual contiene una página inicial, un blog con 20 artículos, los cuales serán de 80 palabras mínimo.
