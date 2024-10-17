@@ -17,8 +17,8 @@ Este en mi repositorio en el que haré una wiki del Real Madrid, el cual contien
 ## Blog
 1. Cristiano Ronaldo
 1. La BBC
-1. Las Champions
-1. Santiago Bernabeu
+1. Las decimocuarta
+1. Santiago Bernabeu (persona)
 1. Alfredo Di Stefano
 1. Mexicanos en el Real Madrid
 1. Las 3 champions seguidas
