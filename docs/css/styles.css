@@ -1,6 +1,7 @@
 
 .body{
-  background-color: antiquewhite;
+  background-color: rgb(60, 61, 60);
+  color: white;
 }
 
 .bg-header{
@@ -10,4 +11,15 @@
 
 .text-center{
   text-align: center;
+}
+
+.text-h1-size{
+  font-size: 400%;
+}
+
+a{
+  color: rgb(116, 255, 23);
+}
+a:hover{
+  color: red;
 }
